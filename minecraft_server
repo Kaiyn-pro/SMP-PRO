@@ -1,0 +1,4 @@
+minecraft-smp-server/
+├── minecraft_server/
+│   └── minecraft_server.jar
+└── README.md
